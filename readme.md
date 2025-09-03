@@ -31,5 +31,5 @@ The original copyright notice and BSD-3 license text are preserved in this repos
 
 A proposal has been made to merge this work into the main Scientific Python Project. Until that process concludes, this repository provides an independent version for users.
 
-However it is not currently associated or endorced by the Scientific Python Project. 
+However it is not currently associated or endorsed by the Scientific Python Project. 
 
